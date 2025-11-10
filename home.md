@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-10T12:47:07.463Z
+date: 2025-11-10T12:53:12.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -16,7 +16,7 @@ dateCreated: 2025-11-10T01:45:52.244Z
 
 目前此Wiki正在处于开发期
 > 急需Wiki贡献者
-> Markdown语言编辑有限
+> Markdown语言编辑优先
 
 ## 加入我们 Join Us
 微信群聊：广工HAM小分队
