@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-10T12:53:12.226Z
+date: 2025-11-11T08:57:04.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -19,6 +19,5 @@ dateCreated: 2025-11-10T01:45:52.244Z
 > Markdown语言编辑优先
 
 ## 加入我们 Join Us
-微信群聊：广工HAM小分队
 厂工无线电Wiki贡献群：259802400
-Wiki腐竹：BI7KHI
+Wiki腐竹：BI7KHI(QQ:298995)
