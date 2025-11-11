@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-11T12:35:30.404Z
+date: 2025-11-11T12:44:05.656Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -47,4 +47,9 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |----|----|
 |BA7MEM| |
 
-# 社会支持人士
+
+|-|-|-|-|
+|BI7MCC| |BD7OUR|广州大学|
+|BD7PEX| |BG7MHF|广州大学|
+|BD7PRC|深圳市嘉湾无线通讯有限公司|BA7OGJ| |
+|BD7PUU| |BG7MXX|星海音乐学院|
