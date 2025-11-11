@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-11T12:32:56.102Z
+date: 2025-11-11T12:34:11.020Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -43,5 +43,8 @@ dateCreated: 2025-11-10T02:19:08.419Z
 # 社团群聊结构
 
 # 往届校友
+|电台呼号|毕业时间|
+|----|----|
+|BA7MEM| |
 
 # 社会支持人士
