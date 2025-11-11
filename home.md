@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-11T11:57:00.314Z
+date: 2025-11-11T13:48:13.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -32,3 +32,12 @@ dateCreated: 2025-11-10T01:45:52.244Z
 
 厂工无线电Wiki贡献群：259802400
 Wiki腐竹：BI7KHI(QQ:298995)
+
+# Wiki贡献者
+<!-- 圆形头像+hover提示，横向排列，间距均匀 -->
+<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 8px 0;">
+  <div style="text-align: center;">
+    <img src="https://blog.bi7khi.xyz/images/avatar.png" alt="Xuanna024 - 站长" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
+    <p style="margin: 4px 0 0 0; font-size: 12px; color: #666;">Xuanna024</p>
+  </div>
+</div>
