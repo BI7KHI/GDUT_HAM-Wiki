@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-11T12:31:25.515Z
+date: 2025-11-11T12:32:56.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -10,13 +10,14 @@ dateCreated: 2025-11-10T02:19:08.419Z
 
 # 社团管理成员
 
-## 现任社团第一负责人
+## 现任社团第一负责人 PengYu
+<img src="https://avatars.githubusercontent.com/u/176003914?v=4" width="150" height="150" align="center" />
 
 ## 现任社团第二负责人
 
 ## 本站腐竹 BI7KHI
 
-![blog.bi7khi.xyz](https://blog.bi7khi.xyz/images/avatar.png)
+<img src="https://blog.bi7khi.xyz/images/avatar.png" width="150" height="150" align="center" />
 
 个人站点:[Xuanna024的小破站](https://blog.bi7khi.xyz/ "Xuanna024的小破站")。
 
@@ -25,7 +26,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |-|-------|------|------|---|-|
 |<img src="https://avatars.githubusercontent.com/u/176003914?v=4" width="50" height="50" align="center" />|PengYu| |https://github.com/Promise-py|大学城| |
 |<img src="https://blog.bi7khi.xyz/images/avatar.png" width="50" height="50" align="center" />|Xuanna024|BI7KHI|https://blog.bi7khi.xyz/|大学城|机电工程学院|
-| |Kyunana097|BG7KMT|https://www.kyunana.art/|大学城|自动化学院|
+|<img src="https://www.kyunana.art/images/avatar.jpg" width="50" height="50" align="center" />|Kyunana097|BG7KMT|https://www.kyunana.art/|大学城|自动化学院|
 | |        |BG8LMT|         |大学城|机电工程学院|
 | |What_help|BG7JZS|        |大学城|机电工程学院|
 | |          |BG7LOY|          |大学城|机电工程学院|
