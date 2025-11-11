@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-11T09:32:27.033Z
+date: 2025-11-11T09:32:53.133Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -21,6 +21,8 @@ dateCreated: 2025-11-10T02:19:08.419Z
 个人站点:[Xuanna024的小破站](https://blog.bi7khi.xyz/ "Xuanna024的小破站")。
 
 # 成员目录
+
+# 社团群聊结构
 
 # 往届校友
 
