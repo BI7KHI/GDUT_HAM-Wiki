@@ -2,7 +2,7 @@
 title: Wiki贡献指南
 description: 
 published: true
-date: 2025-11-11T09:47:52.303Z
+date: 2025-11-12T03:04:07.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T09:27:31.780Z
@@ -23,6 +23,11 @@ Wiki的内容需要各位的参与，为了方便管理和避免部分的同步C
 
 ## Wiki站点贡献
 本站Wiki可以直接在网站页面进行编辑，找到腐竹并注册后进行Contributor登录后在页面右下角有编辑按钮,目前此Wiki有直接编辑和Github
+
+## 内容
+我们的内容并没有限制，但需要注意合法合规(服务器和域名已经备案)
+可以是各种技术指导，建站教程，学校生活经验，学长的智慧等等等等
+作为泥工第一个wiki知识库，我们欢迎各位的贡献
 
 ### Wiki.js Editors说明地址(en)
 [Wiki.js Docs](https://docs.requarks.io/editors)
