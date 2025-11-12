@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-12T03:19:34.955Z
+date: 2025-11-12T03:22:08.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -30,7 +30,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | |        |BG8LMT|         |大学城|机电工程学院|
 |<img src="https://avatars.githubusercontent.com/u/75562992?v=4" width="50" height="50" align="center" />|What_help|BG7JZS|        |大学城|机电工程学院|
 | |          |BG7LOY|          |大学城|机电工程学院|
-|<img src="/5b9decfd9208004ad69cca1168b66c4f.jpg" width="50" height="50" align="center" />| |BA7KSG|http://uzcc.cc|龙洞 |法学院|
+|<img src="/5b9decfd9208004ad69cca1168b66c4f.jpg" width="50" height="50" align="center" />|Clay Lee|BA7KSG|http://uzcc.cc|龙洞 |法学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
 | | |BD7PRF| |大学城 |环境科学与工程学院|
 |<img src="/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|材料与能源学院
