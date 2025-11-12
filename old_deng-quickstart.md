@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-12T07:39:28.049Z
+date: 2025-11-12T16:41:02.086Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -22,6 +22,8 @@ dateCreated: 2025-11-11T15:04:56.764Z
 ### 教学楼厕所
 ### 实验/工学楼厕所
 ### 体育馆厕所
+
+## 饮水机定位
 
 ## 驿站定位
 
