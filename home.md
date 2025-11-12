@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-11T14:12:19.458Z
+date: 2025-11-12T03:30:48.107Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -42,5 +42,10 @@ Wiki腐竹：BI7KHI(QQ:298995)
   <div style="text-align: center;">
     <img src="https://blog.bi7khi.xyz/images/avatar.png" alt="Xuanna024 - 站长" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
     <p style="margin: 4px 0 0 0; font-size: 12px; color: #666;">Xuanna024</p>
+  </div>
+  <div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 8px 0;">
+  <div style="text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/176003914?v=4" alt="PengYu - 社长" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
+    <p style="margin: 4px 0 0 0; font-size: 12px; color: #666;">PengYu</p>
   </div>
 </div>
