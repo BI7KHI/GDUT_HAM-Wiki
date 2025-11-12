@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-12T16:11:13.440Z
+date: 2025-11-12T16:52:40.237Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -51,5 +51,9 @@ Wiki腐竹：BI7KHI(QQ:298995)
   </div>
         <div style="text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/107203318?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
+  </div>
+      </div>
+        <div style="text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/203394164?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
   </div>
 </div>
