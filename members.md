@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-12T02:54:16.101Z
+date: 2025-11-12T02:54:31.084Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -33,6 +33,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BA7KSG| |龙洞 |数理与统计学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
 | | |BD7PRF| |大学城 |环境科学与工程学院|
+| | |Hydronium Hydroxide AR| |大学城|
 | | |BD7PPI| |大学城|自动化学院|
 | | |BG7KMU| |大学城|自动化学院|
 | | |BG7KOD| |大学城| |
@@ -40,7 +41,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BG7MGS| |大学城| |
 | | |BA7NIU| |大学城| |
 | | |BH2XWV| |大学城| |
-| | |Hydronium Hydroxide AR| |大学城|
+
 # 社团群聊结构
 
 # 往届校友
