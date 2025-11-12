@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-12T03:03:39.087Z
+date: 2025-11-12T03:06:43.691Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -33,7 +33,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BA7KSG| |龙洞 |数理与统计学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
 | | |BD7PRF| |大学城 |环境科学与工程学院|
-| | |Hydronium Hydroxide AR| |大学城|材料与能源学院
+| | 7732-18-5 | | |大学城|材料与能源学院
 | | |BD7PPI| |大学城|自动化学院|
 | | |BG7KMU| |大学城|自动化学院|
 | | |BG7KOD| |大学城|生态环境与资源学院|
