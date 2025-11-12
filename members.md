@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-12T02:41:11.599Z
+date: 2025-11-12T02:44:16.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -31,8 +31,8 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |<img src="https://avatars.githubusercontent.com/u/75562992?v=4" width="50" height="50" align="center" />|What_help|BG7JZS|        |大学城|机电工程学院|
 | |          |BG7LOY|          |大学城|机电工程学院|
 | | |BA7KSG| |龙洞 |数理与统计学院|
-| | |BA7NLP| | 大学城|生态与环境工程学院|
-| | |BD7PRF| |大学城 |土木与交通工程学院|
+| | |BA7NLP| | 大学城|生态环境与资源学院|
+| | |BD7PRF| |大学城 |环境科学与工程学院|
 | | |BD7PPI| |大学城|自动化学院|
 | | |BG7KMU| |大学城|自动化学院|
 | | |BG7KOD| |大学城| |
