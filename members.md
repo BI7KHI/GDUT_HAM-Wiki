@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-12T02:54:31.084Z
+date: 2025-11-12T02:56:24.873Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -36,8 +36,8 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |Hydronium Hydroxide AR| |大学城|
 | | |BD7PPI| |大学城|自动化学院|
 | | |BG7KMU| |大学城|自动化学院|
-| | |BG7KOD| |大学城| |
-| | |BG7LIK| |大学城| |
+| | |BG7KOD| |大学城|生态环境与资源学院|
+| | |BG7LIK| |大学城|生态环境与资源学院|
 | | |BG7MGS| |大学城| |
 | | |BA7NIU| |大学城| |
 | | |BH2XWV| |大学城| |
