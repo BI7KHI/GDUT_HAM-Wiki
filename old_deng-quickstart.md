@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-13T19:24:57.169Z
+date: 2025-11-13T19:34:01.948Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -26,7 +26,9 @@ dateCreated: 2025-11-11T15:04:56.764Z
 ## 饮水机定位
 
 ## 驿站定位
-![东区驿站](https://restapi.amap.com/v3/staticmap?location=116.481485,39.990464&zoom=10&size=750*300&markers=mid,,A:116.481485,39.990464&key=<fd662ff89d9de222c22af0fc2a8922fb>)
+东区菜鸟驿站（菜鸟、顺丰、京东）
+![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=116.481485,39.990464&zoom=10&size=750*300&markers=mid,,A:113.3905556,23.044166&key=fd662ff89d9de222c22af0fc2a8922fb)
+23°02'39"N 113°23'26"E
 ## 宿舍好物
 
 ## 就医指南
