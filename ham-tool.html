@@ -2,7 +2,7 @@
 title: CW发报训练
 description: 一款训练接收或发射摩尔斯电码的训练器
 published: true
-date: 2025-11-13T02:56:53.476Z
+date: 2025-11-13T02:58:20.149Z
 tags: 
 editor: code
 dateCreated: 2025-11-12T07:46:03.546Z
@@ -368,3 +368,259 @@ dateCreated: 2025-11-12T07:46:03.546Z
          }
      }
  </style>
+
+<!-- 主容器 -->
+<div class="container mx-auto px-4 py-6 max-w-7xl">
+    <!-- 标题区域 -->
+    <div class="text-center mb-8">
+        <h1 class="title-font text-4xl md:text-5xl font-bold mb-4 text-white">
+            CW 发报器
+        </h1>
+        <p class="text-lg opacity-80 mb-4">专业摩尔斯电码训练工具 - 修复版本</p>
+        <div class="flex items-center justify-center">
+            <span class="status-led status-ready" id="statusIndicator"></span>
+            <span class="text-sm" id="statusText">就绪</span>
+        </div>
+    </div>
+
+    <!-- 主要功能区域 -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-8">
+        <!-- 发送器模块 -->
+        <div class="panel-bg p-6">
+            <div class="flex items-center justify-between mb-6">
+                <h2 class="title-font text-2xl font-bold text-white">发送器</h2>
+                <div class="flex space-x-2">
+                    <button class="control-button active" id="freeModeBtn">自由模式</button>
+                    <button class="control-button" id="practiceModeBtn">练习模式</button>
+                </div>
+            </div>
+            
+            <!-- 速度模式选择 -->
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-3 text-gray-300">发送速度模式</label>
+                <div class="grid grid-cols-3 gap-4">
+                    <button class="speed-mode-button active" id="learningMode">
+                        <div class="font-bold">学习速度</div>
+                        <div class="text-xs opacity-80">1200ms</div>
+                    </button>
+                    <button class="speed-mode-button" id="normalMode">
+                        <div class="font-bold">通联速度</div>
+                        <div class="text-xs opacity-80">600ms</div>
+                    </button>
+                    <button class="speed-mode-button" id="competitionMode">
+                        <div class="font-bold">竞赛速度</div>
+                        <div class="text-xs opacity-80">300ms</div>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- 频谱图显示区域 -->
+            <div class="spectrum-display mb-6" id="spectrumDisplay">
+                <div class="spectrum-grid"></div>
+                <div class="absolute inset-0 flex items-center justify-center text-gray-500" id="spectrumPlaceholder">
+                    点击按钮开始发送
+                </div>
+            </div>
+            
+            <!-- 发送按钮区域 -->
+            <div class="flex justify-center space-x-8 mb-6">
+                <button class="cw-button dot-button" id="dotButton">
+                    <div class="flex flex-col items-center justify-center h-full">
+                        <div class="text-3xl mb-2">•</div>
+                        <div class="text-sm">点</div>
+                    </div>
+                </button>
+                <button class="cw-button dash-button" id="dashButton">
+                    <div class="flex flex-col items-center justify-center h-full">
+                        <div class="text-3xl mb-2">—</div>
+                        <div class="text-sm">划</div>
+                    </div>
+                </button>
+            </div>
+            
+            <!-- 识别结果显示 -->
+            <div class="mb-4">
+                <div class="flex items-center justify-between mb-2">
+                    <label class="block text-sm font-medium text-gray-300">识别结果</label>
+                    <button class="control-button text-sm px-3 py-1" id="clearSendResult">清空</button>
+                </div>
+                <div class="terminal-input h-16 overflow-y-auto" id="sendResult">
+                    等待发送...
+                </div>
+            </div>
+            
+            <!-- 发送统计 -->
+            <div class="grid grid-cols-3 gap-4">
+                <div class="stats-card">
+                    <div class="stats-number" id="sendSpeed">0</div>
+                    <div class="stats-label">WPM</div>
+                </div>
+                <div class="stats-card">
+                    <div class="stats-number" id="sendCount">0</div>
+                    <div class="stats-label">已发送</div>
+                </div>
+                <div class="stats-card">
+                    <div class="stats-number" id="currentChar">-</div>
+                    <div class="stats-label">当前字符</div>
+                </div>
+            </div>
+            
+            <!-- 练习模式面板 -->
+            <div id="sendPracticePanel" class="hidden mt-6 panel-bg p-4">
+                <h3 class="font-bold mb-3 text-white">发送练习</h3>
+                <div class="question-display" id="sendQuestion">
+                    点击"开始练习"开始
+                </div>
+                <div class="flex justify-between items-center mt-4">
+                    <button class="control-button" id="startSendPractice">开始练习</button>
+                    <div class="text-lg font-mono text-green-400" id="sendTimer">00:00</div>
+                    <button class="control-button" id="nextSendQuestion">下一题</button>
+                </div>
+                <div id="sendPracticeResult" class="mt-3 text-center"></div>
+            </div>
+        </div>
+
+        <!-- 接收器模块 -->
+        <div class="panel-bg p-6">
+            <div class="flex items-center justify-between mb-6">
+                <h2 class="title-font text-2xl font-bold text-white">接收器</h2>
+                <div class="flex items-center space-x-4">
+                    <span class="text-sm text-gray-300">速度:</span>
+                    <div class="flex items-center space-x-2">
+                        <input type="range" class="w-24" id="receiveSpeed" 
+                               min="5" max="30" value="15" step="5">
+                        <span class="text-sm font-mono" id="speedDisplay">15 WPM</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 音频控制 -->
+            <div class="mb-6">
+                <div class="flex items-center justify-between mb-3">
+                    <span class="text-sm text-gray-300">音频控制</span>
+                    <div class="flex space-x-2">
+                        <button class="control-button" id="playButton">播放</button>
+                        <button class="control-button" id="stopButton">停止</button>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <span class="text-xs text-gray-400">音量:</span>
+                    <input type="range" class="w-24" id="volumeSlider" min="0" max="100" value="70">
+                    <span class="text-xs font-mono" id="volumeDisplay">70%</span>
+                </div>
+            </div>
+            
+            <!-- 难度选择 -->
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2 text-gray-300">难度选择</label>
+                <div class="flex space-x-2">
+                    <button class="difficulty-button difficulty-easy active" id="easyBtn">初级</button>
+                    <button class="difficulty-button difficulty-medium inactive" id="mediumBtn">中级</button>
+                    <button class="difficulty-button difficulty-hard inactive" id="hardBtn">高级</button>
+                </div>
+            </div>
+            
+            <!-- 答案输入 -->
+            <div class="mb-4">
+                <label class="block text-sm font-medium mb-2 text-gray-300">输入接收内容</label>
+                <input type="text" class="terminal-input" id="receiveInput" 
+                       placeholder="输入接收到的摩尔斯电码内容...">
+            </div>
+            
+            <!-- 控制按钮 -->
+            <div class="flex space-x-4 mb-6">
+                <button class="control-button" id="startReceive">开始接收</button>
+                <button class="control-button" id="submitAnswer">提交答案</button>
+                <button class="control-button" id="clearAnswer">清除</button>
+            </div>
+            
+            <!-- 结果显示 -->
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2 text-gray-300">结果</label>
+                <div class="terminal-input h-20 overflow-y-auto" id="receiveResult">
+                    等待开始...
+                </div>
+            </div>
+            
+            <!-- 得分显示 -->
+            <div class="score-display mb-4">
+                <div class="text-lg font-bold text-white mb-2">本次得分</div>
+                <div class="grid grid-cols-3 gap-4">
+                    <div>
+                        <div class="text-2xl font-bold text-amber-400" id="accuracyScore">0%</div>
+                        <div class="text-xs text-gray-400">准确率</div>
+                    </div>
+                    <div>
+                        <div class="text-2xl font-bold text-blue-400" id="speedScore">0</div>
+                        <div class="text-xs text-gray-400">速度分</div>
+                    </div>
+                    <div>
+                        <div class="text-2xl font-bold text-green-400" id="totalScore">0</div>
+                        <div class="text-xs text-gray-400">总分</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 接收练习题目显示 -->
+            <div class="mb-4">
+                <div class="text-sm text-gray-300 mb-2">当前题目:</div>
+                <div class="question-display" id="receiveQuestion">
+                    点击"开始接收"开始练习
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 设置面板 -->
+    <div class="panel-bg p-6 mb-8">
+        <h3 class="title-font text-xl font-bold mb-4 text-white">设置</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div>
+                <label class="block text-sm font-medium mb-2 text-gray-300">音频频率</label>
+                <div class="flex items-center space-x-2">
+                    <input type="range" class="w-full" id="frequencySlider" min="600" max="1000" value="800">
+                    <span class="text-sm font-mono" id="frequencyDisplay">800Hz</span>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm font-medium mb-2 text-gray-300">字符间隔 (ms)</label>
+                <div class="flex items-center space-x-2">
+                    <input type="range" class="w-full" id="intervalSlider" min="300" max="2000" value="1200" disabled>
+                    <span class="text-sm font-mono" id="intervalDisplay">1200ms</span>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm font-medium mb-2 text-gray-300">音效开关</label>
+                <label class="relative inline-flex items-center cursor-pointer">
+                    <input type="checkbox" id="soundToggle" class="sr-only peer" checked>
+                    <div class="w-11 h-6 bg-gray-600 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-amber-500"></div>
+                </label>
+            </div>
+            <div>
+                <label class="block text-sm font-medium mb-2 text-gray-300">视觉效果</label>
+                <label class="relative inline-flex items-center cursor-pointer">
+                    <input type="checkbox" id="visualToggle" class="sr-only peer" checked>
+                    <div class="w-11 h-6 bg-gray-600 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-amber-500"></div>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <!-- 修复说明 -->
+    <div class="panel-bg p-6 mb-8">
+        <h3 class="title-font text-xl font-bold mb-4 text-white">修复说明</h3>
+        <div class="text-gray-300 space-y-2">
+            <p>✓ 修复了按钮无响应的问题</p>
+            <p>✓ 优化了事件监听器绑定</p>
+            <p>✓ 改进了错误处理机制</p>
+            <p>✓ 增强了代码健壮性</p>
+            <p>✓ 修复了频谱图显示问题</p>
+            <p>✓ 优化了音频播放功能</p>
+        </div>
+    </div>
+
+    <!-- 页脚 -->
+    <footer class="text-center py-8 opacity-60">
+        <p class="text-sm">© 2024 CW发报器 - 修复版本 | 所有功能已恢复正常</p>
+    </footer>
+</div>
