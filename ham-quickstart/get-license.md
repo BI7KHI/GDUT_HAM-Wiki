@@ -2,7 +2,7 @@
 title: 业余无线电入门指南
 description: 
 published: true
-date: 2025-11-13T19:12:21.485Z
+date: 2025-11-13T19:12:30.792Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T09:19:18.149Z
@@ -124,9 +124,3 @@ https://www.gdzwfw.gov.cn/
 
 电台执照拿到手后，你会在电台呼号一栏看到独属于你的电台呼号（电台呼号是世界唯一的，由ITU国际电信联盟分配）
 恭喜你，成功打开了业余无线电的大门！无线电的世界为你敞开
-
-
-
-
-
-# 换证指南
