@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-14T03:31:13.244Z
+date: 2025-11-14T05:53:15.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -32,6 +32,8 @@ dateCreated: 2025-11-11T15:04:56.764Z
 ## 宿舍好物
 
 ## 就医指南
+门诊就诊报销流程图'https://xyy.gdut.edu.cn/info/1047/1173.htm'
+住院就诊报销流程图'https://xyy.gdut.edu.cn/info/1047/1174.htm'
 
 ## 课表同步
 
