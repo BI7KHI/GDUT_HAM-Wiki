@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-14T05:09:15.438Z
+date: 2025-11-14T06:12:24.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -40,7 +40,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BG7LIK| |大学城|生态环境与资源学院|
 |<img src="https://avatars.githubusercontent.com/u/126630350?v=4" width="50" height="50" align="center" />| |BG7MGS| |大学城| |
 | | |BA7NIU| |大学城| |
-| | |BH2XWV| |大学城| |
+| |Fumo |BH2XWV| |大学城|材料与能源学院 |
 
 # 社团群聊结构
 
