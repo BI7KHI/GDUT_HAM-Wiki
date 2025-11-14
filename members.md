@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-14T06:12:24.468Z
+date: 2025-11-14T07:36:50.792Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -52,9 +52,10 @@ dateCreated: 2025-11-10T02:19:08.419Z
 # 支持
 |电台呼号| |电台呼号| |
 |-|-|-|-|
-|BI7MCC|广州市020无线电俱乐部|BD7OUR|广州大学|
+|BI7MCC|广东省无线电协会|BD7OUR|广州大学|
 |BD7PEX|广州市020无线电俱乐部|BG7MHF|广州大学|
 |BD7PRC|深圳市嘉湾无线通讯技术有限公司|BA7OGJ| |
 |BD7PUU| |BG7MXX|星海音乐学院|
 
 # 鸣谢
+![14389181.png](/14389181.png)
