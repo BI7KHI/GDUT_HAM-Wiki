@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-14T06:08:52.272Z
+date: 2025-11-14T07:51:52.438Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -53,6 +53,9 @@ dateCreated: 2025-11-11T15:04:56.764Z
 住院就诊报销流程图'https://xyy.gdut.edu.cn/info/1047/1174.htm'
 
 ## 课表同步
+微信小程序：GDUT Days
+WakeUP课程表：安卓免费 IOS付费（可导出ICS文件导入系统日历和Outlook）
+Outlook插件 https://github.com/BI7KHI/GDUT_Schedule_Management_Plug-in_Outlook
 ## 公共钢琴
 ### 图书馆琴房
 大学城图书馆3楼东侧视听空间内，可免费使用
