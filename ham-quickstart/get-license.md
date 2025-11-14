@@ -2,7 +2,7 @@
 title: 业余无线电入门指南
 description: 
 published: true
-date: 2025-11-14T03:57:53.081Z
+date: 2025-11-14T03:58:27.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T09:19:18.149Z
@@ -38,7 +38,7 @@ dateCreated: 2025-11-11T09:19:18.149Z
 报考成功后就可以开始刷题了
 刷题网站有很多，但是一定要注意**看准新题库2025**
 考试内容覆盖**无线电相关法律法规，模拟电子电路、射频电子电路**，对于有部分电子基础的同学还算简单(比科目一简单)
-[学长自用刷题网站](https://hamtest.bi7khi,xyz)由BI7KHI编写程序，项目开源在Github，欢迎贡献和Star [Github-HAM_OperationTechnicalVerification](https://github.com/BI7KHI/HAM_OperationTechnicalVerification)
+[学长自用刷题网站](https://hamtest.bi7khi.xyz/)由BI7KHI编写程序，项目开源在Github，欢迎贡献和Star [Github-HAM_OperationTechnicalVerification](https://github.com/BI7KHI/HAM_OperationTechnicalVerification)
 ## 考试需要准备的相关资料
 1. 公民身份证
 2. 无（报考无年龄限制）
