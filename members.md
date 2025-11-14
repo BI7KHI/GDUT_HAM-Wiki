@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-11-14T07:44:51.538Z
+date: 2025-11-14T08:07:37.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -28,7 +28,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |<img src="https://blog.bi7khi.xyz/images/avatar.png" width="50" height="50" align="center" />|Xuanna024|BI7KHI|https://blog.bi7khi.xyz/|大学城|机电工程学院|
 |<img src="https://www.kyunana.art/images/avatar.jpg" width="50" height="50" align="center" />|Kyunana097|BG7KMT|https://www.kyunana.art/|大学城|自动化学院|
 | |        |BG8LMT|         |大学城|机电工程学院|
-|<img src="https://avatars.githubusercontent.com/u/75562992?v=4" width="50" height="50" align="center" />|What_help|BG7JZS|        |大学城|机电工程学院|
+|<img src="https://avatars.githubusercontent.com/u/75562992?v=4" width="50" height="50" align="center" />|What_help|BG7JZS|https://github.com/Whathelp233|大学城|机电工程学院|
 |<img src="/20251112220553_52_452.jpg" width="50" height="50" align="center" />|   Xiayu       |BG7LOY|          |大学城|机电工程学院|
 |<img src="/5b9decfd9208004ad69cca1168b66c4f.jpg" width="50" height="50" align="center" />|Clay Lee|BA7KSG|http://uzcc.cc|龙洞 |法学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
