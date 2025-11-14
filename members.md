@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-14T04:02:08.481Z
+date: 2025-11-14T05:03:39.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -32,8 +32,8 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |<img src="/20251112220553_52_452.jpg" width="50" height="50" align="center" />|   Xiayu       |BG7LOY|          |大学城|机电工程学院|
 |<img src="/5b9decfd9208004ad69cca1168b66c4f.jpg" width="50" height="50" align="center" />|Clay Lee|BA7KSG|http://uzcc.cc|龙洞 |法学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
-| | |BD7PRF| |大学城 |环境科学与工程学院|
-|<img src="/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|材料与能源学院
+| | |BD7PRF| |大学城 |群内唯一土木佬|
+|<img src="/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|群内唯一材能佬
 | | |BD7PPI| |大学城|自动化学院|
 | | |BG7KMU| |大学城|自动化学院|
 | | |BG7KOD| |大学城|生态环境与资源学院|
