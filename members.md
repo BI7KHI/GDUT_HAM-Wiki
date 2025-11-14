@@ -2,7 +2,7 @@
 title: members
 description: 
 published: true
-date: 2025-11-14T05:03:39.282Z
+date: 2025-11-14T05:09:15.438Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -35,10 +35,10 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BD7PRF| |大学城 |群内唯一土木佬|
 |<img src="/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|群内唯一材能佬
 | | |BD7PPI| |大学城|自动化学院|
-| | |BG7KMU| |大学城|自动化学院|
-| | |BG7KOD| |大学城|生态环境与资源学院|
+|<img src="https://avatars.githubusercontent.com/u/203394164?v=4" width="50" height="50" align="center" />| |BG7KMU| |大学城|自动化学院|
+|<img src="https://avatars.githubusercontent.com/u/109465882?v=4" width="50" height="50" align="center" />| |BG7KOD| |大学城|生态环境与资源学院|
 | | |BG7LIK| |大学城|生态环境与资源学院|
-| | |BG7MGS| |大学城| |
+|<img src="https://avatars.githubusercontent.com/u/126630350?v=4" width="50" height="50" align="center" />| |BG7MGS| |大学城| |
 | | |BA7NIU| |大学城| |
 | | |BH2XWV| |大学城| |
 
