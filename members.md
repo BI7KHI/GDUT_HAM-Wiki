@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-11-14T08:07:39.937Z
+date: 2025-11-18T03:21:32.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -21,7 +21,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 
 个人站点:[Xuanna024的小破站](https://blog.bi7khi.xyz/ "Xuanna024的小破站")。
 
-# 在校在读成员目录(本科生、研究生)
+# 在读爱好者成员目录(本科生、研究生)
 | |成员昵称|电台呼号|个人链接|校区|学院|
 |-|-------|------|------|---|-|
 |<img src="https://avatars.githubusercontent.com/u/176003914?v=4" width="50" height="50" align="center" />|PengYu| |https://github.com/Promise-py|大学城|信息工程学院|
@@ -55,7 +55,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |BI7MCC|广东省无线电协会|BD7OUR|广州大学|
 |BD7PEX|广州市020无线电俱乐部|BG7MHF|广州大学|
 |BD7PRC|深圳市嘉湾无线通讯技术有限公司|BA7OGJ|OGJ无线电竞赛基地|
-|BD7PUU| |BG7MXX|星海音乐学院|
-|BI3AGE|香港科技大学(广州)|Hongliu114|长安大学|
+|BD7PUU|深圳市嘉湾无线通讯技术有限公司|BG7MXX|星海音乐学院|
+|BI3AGE|香港科技大学(广州)|BG7OFD|长安大学|
 # 鸣谢
 ![14389181.png](/14389181.png)
