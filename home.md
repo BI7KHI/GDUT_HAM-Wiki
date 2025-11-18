@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-14T08:06:26.474Z
+date: 2025-11-18T03:47:47.303Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -31,7 +31,10 @@ dateCreated: 2025-11-10T01:45:52.244Z
 > 对无线电技术感兴趣的盆友们都可以参加编辑
 > 左侧导航进入Wiki贡献入门指南👈
 
-## 加入我们 Join Us
+# 荣誉
+![ba7iwr_cqwpx_2025_ssb_certificate.png](/ba7iwr_cqwpx_2025_ssb_certificate.png)
+
+# 加入我们 Join Us
 
 厂工无线电Wiki贡献群：259802400
 Wiki腐竹：BI7KHI(QQ:298995)
