@@ -2,7 +2,7 @@
 title: Wiki贡献指南
 description: 
 published: true
-date: 2025-11-12T03:04:09.058Z
+date: 2025-11-25T12:35:33.694Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T09:27:31.780Z
@@ -36,3 +36,6 @@ Wiki的内容需要各位的参与，为了方便管理和避免部分的同步C
 本站Github仓库地址
 https://github.com/BI7KHI/GDUT_HAM-Wiki
 Git操作文档仍然在更新
+# 一些命名规范
+1. 图片不要随便扔在根目录下谢谢喵，建议在此文件夹下再添加/assets/images目录，然后把图片扔里头
+> 文件结构整理提上日程（）
