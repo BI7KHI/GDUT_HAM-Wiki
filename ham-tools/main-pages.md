@@ -2,7 +2,7 @@
 title: 业余无线电工具&软件分享
 description: 
 published: true
-date: 2025-11-14T03:43:51.504Z
+date: 2025-11-25T08:02:22.379Z
 tags: 工具, 软件, 开源, github
 editor: markdown
 dateCreated: 2025-11-13T08:23:41.202Z
@@ -32,3 +32,4 @@ dateCreated: 2025-11-13T08:23:41.202Z
 |Look4Sat 人造卫星追踪软件|https://n1mmwp.hamdocs.com/|
 |摩尔斯Morse Code解码工具MorseExpert|https://ve3nea.github.io/MorseExpert/|
 |SSTV发射/接收工具MMSSTV|https://hamsoft.ca/pages/mmsstv.php|
+|MMANA-GAL 天线射频仿真|http://gal-ana.de/basicmm/en/|
