@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-14T11:57:28.802Z
+date: 2025-11-22T12:21:22.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -56,9 +56,8 @@ dateCreated: 2025-11-11T15:04:56.764Z
 ## 驿站定位
 ### 东区菜鸟驿站（菜鸟、顺丰、京东、兔喜生活超市、韵达快递超市）
 ![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3964,23.0419&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3964,23.0418&key=fd662ff89d9de222c22af0fc2a8922fb)
-23°02'30"N 113°23'46"E AMAP API TEST
 ### 东区丰巢点
-
+![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3915,23.0425&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3915,23.0425&key=fd662ff89d9de222c22af0fc2a8922fb)
 ## 宿舍好物
 
 ## 就医指南
@@ -72,6 +71,8 @@ Outlook插件 https://github.com/BI7KHI/GDUT_Schedule_Management_Plug-in_Outlook
 ## 公共钢琴
 ### 图书馆琴房
 大学城图书馆3楼东侧视听空间内，可免费使用
+![视听空间正门照片.jpg](/视听空间正门照片.jpg)
+![内部钢琴房正门.jpg](/内部钢琴房正门.jpg)
 ### 文化活动中心
 由东侧北门进入，楼梯与电梯夹角处
 ### （大学城）二饭二楼

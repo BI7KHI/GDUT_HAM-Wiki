@@ -1,8 +1,8 @@
 ---
-title: 业余无线电入门指南
+title: （保姆级教程）业余无线电入门指南
 description: 
 published: true
-date: 2025-11-17T04:46:25.913Z
+date: 2025-11-25T03:30:42.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T09:19:18.149Z

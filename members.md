@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-11-18T03:21:32.679Z
+date: 2025-11-25T03:29:17.236Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -40,7 +40,8 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BG7LIK| |大学城|生态环境与资源学院|
 |<img src="https://avatars.githubusercontent.com/u/126630350?v=4" width="50" height="50" align="center" />| |BG7MGS| |大学城| |
 | | |BA7NIU| |大学城| |
-| |Fumo |BH2XWV| |大学城|材料与能源学院 |
+|<img src="https://resize.cdn.otakumode.com/full/shop/product/b07ab40793604fc281da289da2eb86a8.jpg" width="50" height="50" align="center" />|Fumo |BH2XWV| |大学城|材料与能源学院 |
+| | |BG5JJY| |大学城| |
 
 # 社团群聊结构
 
@@ -57,5 +58,4 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |BD7PRC|深圳市嘉湾无线通讯技术有限公司|BA7OGJ|OGJ无线电竞赛基地|
 |BD7PUU|深圳市嘉湾无线通讯技术有限公司|BG7MXX|星海音乐学院|
 |BI3AGE|香港科技大学(广州)|BG7OFD|长安大学|
-# 鸣谢
-![14389181.png](/14389181.png)
+
