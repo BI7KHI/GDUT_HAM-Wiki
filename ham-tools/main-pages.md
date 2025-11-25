@@ -2,7 +2,7 @@
 title: 业余无线电工具&软件分享
 description: 
 published: true
-date: 2025-11-25T08:02:22.379Z
+date: 2025-11-25T08:06:24.514Z
 tags: 工具, 软件, 开源, github
 editor: markdown
 dateCreated: 2025-11-13T08:23:41.202Z
@@ -33,3 +33,6 @@ dateCreated: 2025-11-13T08:23:41.202Z
 |摩尔斯Morse Code解码工具MorseExpert|https://ve3nea.github.io/MorseExpert/|
 |SSTV发射/接收工具MMSSTV|https://hamsoft.ca/pages/mmsstv.php|
 |MMANA-GAL 天线射频仿真|http://gal-ana.de/basicmm/en/|
+|GNU Radio软件定义无线电工具|https://www.gnuradio.org/|
+|SDR ++软件无线电接收工具|https://www.sdrpp.org/|
+|SatDrump 卫星综合地面站和解码软件|https://www.satdump.org/|
