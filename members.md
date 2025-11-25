@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-11-25T13:02:09.164Z
+date: 2025-11-25T14:35:19.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -48,7 +48,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 # 往届校友
 |电台呼号|毕业时间|
 |----|----|
-|BA7MEM| |
+|BA7MEM|2016届机电工程学院毕业生|
 
 # 支持
 |电台呼号| |电台呼号| |
