@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-25T07:19:43.324Z
+date: 2025-11-25T08:16:59.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -30,6 +30,9 @@ dateCreated: 2025-11-10T01:45:52.244Z
 > Markdown语言编辑优先
 > 对无线电技术感兴趣的盆友们都可以参加编辑
 > 左侧导航进入Wiki贡献入门指南👈
+
+08年前的百度百科（暂不维护）
+[百度百科-广东工业大学无线电社](https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%97%A0%E7%BA%BF%E7%94%B5%E7%A4%BE/15418281)
 
 # 荣誉
 ![ba7iwr_cqwpx_2025_ssb_certificate.png](/ba7iwr_cqwpx_2025_ssb_certificate.png)
