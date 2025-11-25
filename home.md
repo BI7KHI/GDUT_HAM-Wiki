@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-25T08:17:42.033Z
+date: 2025-11-25T08:19:57.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -33,6 +33,7 @@ dateCreated: 2025-11-10T01:45:52.244Z
 
 08年前的百度百科（暂不维护）
 [百度百科-广东工业大学无线电社](https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%97%A0%E7%BA%BF%E7%94%B5%E7%A4%BE/15418281)
+[广东工业大学信息工程学院-无线电社]https://xxgcxy.gdut.edu.cn/info/1387/4718.htm
 
 # 荣誉
 ![ba7iwr_cqwpx_2025_ssb_certificate.png](/ba7iwr_cqwpx_2025_ssb_certificate.png)
