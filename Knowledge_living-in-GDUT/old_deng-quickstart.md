@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-25T12:42:21.204Z
+date: 2025-11-25T12:51:37.202Z
 tags: 生活指南
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -71,8 +71,8 @@ Outlook插件 https://github.com/BI7KHI/GDUT_Schedule_Management_Plug-in_Outlook
 ## 公共钢琴
 ### 图书馆琴房
 大学城图书馆3楼东侧视听空间内，可免费使用
-![视听空间正门照片.jpg](/视听空间正门照片.jpg)
-![内部钢琴房正门.jpg](/内部钢琴房正门.jpg)
+![内部钢琴房正门.jpg](/images-living-know-in-gdut/内部钢琴房正门.jpg)
+![视听空间正门照片.jpg](/images-living-know-in-gdut/视听空间正门照片.jpg)
 ### 文化活动中心
 由东侧北门进入，楼梯与电梯夹角处
 ### （大学城）二饭二楼
