@@ -2,7 +2,7 @@
 title: 业余无线电工具&软件分享
 description: 
 published: true
-date: 2025-11-25T08:06:24.514Z
+date: 2025-11-25T08:11:46.944Z
 tags: 工具, 软件, 开源, github
 editor: markdown
 dateCreated: 2025-11-13T08:23:41.202Z
@@ -23,6 +23,10 @@ dateCreated: 2025-11-13T08:23:41.202Z
 |全球呼号数据库QRZ|https://qrz.com/|
 |DMRID\NXDN注册网站|https://qrz.com/|
 |BrandMeister网络管理|https://brandmeister.network/|
+|ASRTU-1卫星快速导航|https://asrtu.mqsi.xyz/|
+|人造卫星追踪数据平台Space-Track|https://www.space-track.org/|
+|ORBIT业余人造卫星追踪|https://sat.xanyi.eu.org/|
+|国际空间站追踪ISS Tracker|https://live.ariss.org/dashboard/esamap/|
 
 ## 无线电软件工具
 |描述|链接|
@@ -36,3 +40,4 @@ dateCreated: 2025-11-13T08:23:41.202Z
 |GNU Radio软件定义无线电工具|https://www.gnuradio.org/|
 |SDR ++软件无线电接收工具|https://www.sdrpp.org/|
 |SatDrump 卫星综合地面站和解码软件|https://www.satdump.org/|
+|人造卫星追踪和云台控制Orbitron|https://www.stoff.pl/|
