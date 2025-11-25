@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-25T08:16:59.362Z
+date: 2025-11-25T08:17:42.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -39,7 +39,7 @@ dateCreated: 2025-11-10T01:45:52.244Z
 (BA7IWR)2025 CQ World Wide WPX Contest **China #3 | Asia #5**
 OPEATOR IN GDUT ： BI7KHI | BG8LMT | BD7PRF | BA7NLP
 # 加入我们 Join Us
-
+开放交流微信群聊：广工HAM小分队
 厂工无线电Wiki贡献群：259802400
 Wiki腐竹：BI7KHI(QQ:298995)
 
