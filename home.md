@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-11-25T08:20:18.053Z
+date: 2025-11-26T02:26:04.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -44,33 +44,11 @@ OPEATOR IN GDUT ： BI7KHI | BG8LMT | BD7PRF | BA7NLP
 厂工无线电Wiki贡献群：259802400
 Wiki腐竹：BI7KHI(QQ:298995)
 
-# Wiki贡献者
-<!-- 圆形头像+hover提示，横向排列，间距均匀 -->
-<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 8px 0;">
-  <div style="text-align: center;">
-    <img src="https://blog.bi7khi.xyz/images/avatar.png" alt="Xuanna024 - 站长" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-  <div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 8px 0;">
-  <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/176003914?v=4" alt="PengYu - 社长" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-    <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/147922336?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-        <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/107203318?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-      </div>
-        <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/203394164?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-    <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/125719304?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-    <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/75562992?v=4"style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #eee; object-fit: cover;">
-  </div>
-</div>
+# Wiki贡献者(Github)
+
+<a href="https://github.com/BI7KHI/GDUT_HAM-Wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BI7KHI/GDUT_HAM-Wiki" />
+</a>
 
 # 鸣谢
 
