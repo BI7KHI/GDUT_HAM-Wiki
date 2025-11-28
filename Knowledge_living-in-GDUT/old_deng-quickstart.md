@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-28T03:05:46.257Z
+date: 2025-11-28T03:18:12.890Z
 tags: 生活指南
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -91,6 +91,10 @@ KFC、茶百道等同理
 ![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3964,23.0419&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3964,23.0418&key=fd662ff89d9de222c22af0fc2a8922fb)
 ### 东区丰巢点
 ![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3915,23.0425&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3915,23.0425&key=fd662ff89d9de222c22af0fc2a8922fb)
+### 西区驿站（依次为兔喜、美团、顺丰、妈妈、韵达、京东、邮政驿站）
+
+### 西区丰巢/快宝点
+
 ## 宿舍好物
 
 ## 就医指南
@@ -101,6 +105,7 @@ KFC、茶百道等同理
 微信小程序：GDUT Days
 WakeUP课程表：安卓免费 IOS付费（可导出ICS文件导入系统日历和Outlook）
 Outlook插件 https://github.com/BI7KHI/GDUT_Schedule_Management_Plug-in_Outlook
+
 ## 公共钢琴
 ### 图书馆琴房
 大学城图书馆3楼东侧视听空间内，可免费使用
