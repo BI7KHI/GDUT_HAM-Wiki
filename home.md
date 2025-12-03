@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-12-03T11:22:15.305Z
+date: 2025-12-03T11:23:27.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -92,7 +92,7 @@ dateCreated: 2025-11-10T01:45:52.244Z
 # 鸣谢
 
 ![14389181.png](/14389181.png)
-![aic.png](/avatars/aic.png)
 
+<img src="/avatars/aic.png" width="500" height="150" align="center" />
 
 > 感谢所有为无线电技术传播与 Wiki 建设做出贡献的成员与朋友。
