@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-12-03T11:25:23.109Z
+date: 2025-12-03T11:32:25.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -96,3 +96,6 @@ dateCreated: 2025-11-10T01:45:52.244Z
 <img src="/avatars/aic.png" width="500" height="150" align="center" />
 
 > 感谢所有为无线电技术传播与 Wiki 建设做出贡献的成员与朋友。
+
+# 考古区（社团历史）
+
