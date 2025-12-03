@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-11-25T14:35:21.981Z
+date: 2025-12-03T11:31:26.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -42,6 +42,9 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BA7NIU| |大学城| |
 |<img src="https://resize.cdn.otakumode.com/full/shop/product/b07ab40793604fc281da289da2eb86a8.jpg" width="50" height="50" align="center" />|Fumo |BH2XWV| |大学城|材料与能源学院 |
 | | |BG5JJY| |大学城| |
+| |阿空| | |大学城| |
+| | | | | | |
+
 
 # 社团群聊结构
 
@@ -49,6 +52,10 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |电台呼号|毕业时间|
 |----|----|
 |BA7MEM|2016届机电工程学院毕业生|
+---
+|姓名|毕业时间|
+|----|----|
+| | |
 
 # 支持
 |电台呼号| |电台呼号| |
