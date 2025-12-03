@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-11-28T03:26:02.526Z
+date: 2025-12-03T14:18:05.755Z
 tags: 生活指南
 editor: markdown
 dateCreated: 2025-11-11T15:04:56.764Z
@@ -95,9 +95,10 @@ KFC、茶百道等同理
 ### 西区驿站（依次为兔喜、美团、顺丰、妈妈、韵达、京东、邮政驿站）
 
 ### 西区丰巢/快宝点
-
+![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3886,23.0428&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3886,23.0428&key=fd662ff89d9de222c22af0fc2a8922fb)
 ## 宿舍好物
-
+窗帘是必备的，广东夏天的蚊子有你好受的，但是注意透气和通风，不然很闷
+床下帘也可以安装，如果你是i人或者注重隐私的话
 ## 就医指南
 门诊就诊报销流程图'https://xyy.gdut.edu.cn/info/1047/1173.htm'
 住院就诊报销流程图'https://xyy.gdut.edu.cn/info/1047/1174.htm'
