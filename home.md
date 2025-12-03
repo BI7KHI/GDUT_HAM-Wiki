@@ -2,7 +2,7 @@
 title: 主页
 description: 关于我们
 published: true
-date: 2025-12-03T11:32:25.748Z
+date: 2025-12-03T11:40:34.995Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T01:45:52.244Z
@@ -49,12 +49,6 @@ dateCreated: 2025-11-10T01:45:52.244Z
 > 📌 请通过左侧导航查看 **Wiki 贡献入门指南**
 > 🔍 欢迎考古学家考察、完善社团历史（历届老社长过来认领啦）
 
----
-
-## 参阅资料
-
-- [百度百科 - 广东工业大学无线电社（暂不维护）](https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%97%A0%E7%BA%BF%E7%94%B5%E7%A4%BE/15418281)
-- [广东工业大学信息工程学院 - 无线电社介绍](https://xxgcxy.gdut.edu.cn/info/1387/4718.htm)
 
 ---
 
@@ -97,5 +91,10 @@ dateCreated: 2025-11-10T01:45:52.244Z
 
 > 感谢所有为无线电技术传播与 Wiki 建设做出贡献的成员与朋友。
 
-# 考古区（社团历史）
+# 社团历史（考古）
+
+## 参阅资料
+
+- [百度百科 - 广东工业大学无线电社](https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%97%A0%E7%BA%BF%E7%94%B5%E7%A4%BE/15418281)
+- [广东工业大学信息工程学院 - 无线电社介绍](https://xxgcxy.gdut.edu.cn/info/1387/4718.htm)
 
