@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-12-03T11:31:26.813Z
+date: 2025-12-06T15:35:09.837Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -43,7 +43,9 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |<img src="https://resize.cdn.otakumode.com/full/shop/product/b07ab40793604fc281da289da2eb86a8.jpg" width="50" height="50" align="center" />|Fumo |BH2XWV| |大学城|材料与能源学院 |
 | | |BG5JJY| |大学城| |
 | |阿空| | |大学城| |
+| | |BG7OES| |大学城| |
 | | | | | | |
+
 
 
 # 社团群聊结构
