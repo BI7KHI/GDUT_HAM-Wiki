@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-12-06T15:35:09.837Z
+date: 2025-12-07T05:52:22.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -33,7 +33,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |<img src="/avatars/5b9decfd9208004ad69cca1168b66c4f.jpg" width="50" height="50" align="center" />|Clay Lee|BA7KSG|http://uzcc.cc|龙洞 |法学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
 | | |BD7PRF| |大学城 |群内唯一土木佬|
-|<img src="/avatars/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|群内唯一材能佬
+|<img src="/avatars/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|材料与能源学院
 | | |BD7PPI| |大学城|自动化学院|
 |<img src="https://avatars.githubusercontent.com/u/203394164?v=4" width="50" height="50" align="center" />| |BG7KMU| |大学城|自动化学院|
 |<img src="https://avatars.githubusercontent.com/u/109465882?v=4" width="50" height="50" align="center" />| |BG7KOD| |大学城|生态环境与资源学院|
@@ -44,9 +44,9 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BG5JJY| |大学城| |
 | |阿空| | |大学城| |
 | | |BG7OES| |大学城| |
-| | | | | | |
+| | |BG7MCC | | | |
 
-
+校团委社团成员限制为仅本科生，研究生无法通过校团委审核
 
 # 社团群聊结构
 
@@ -54,12 +54,13 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |电台呼号|毕业时间|
 |----|----|
 |BA7MEM|2016届机电工程学院毕业生|
----
-|姓名|毕业时间|
-|----|----|
-| | |
 
-# 支持
+---
+|校友|毕业时间|
+|----|----|
+|驰天电子|2000届本科毕业生|
+|||
+# 交流列表
 |电台呼号| |电台呼号| |
 |-|-|-|-|
 |BI7MCC|广东省无线电协会|BD7OUR|广州大学|
@@ -67,4 +68,5 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |BD7PRC|深圳市嘉湾无线通讯技术有限公司|BA7OGJ|OGJ无线电竞赛基地|
 |BD7PUU|深圳市嘉湾无线通讯技术有限公司|BG7MXX|星海音乐学院|
 |BI3AGE|香港科技大学(广州)|BG7OFD|长安大学|
+|BA4PT|长安大学|BI3/VA3LPZ| |
 
