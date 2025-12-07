@@ -2,7 +2,7 @@
 title: 主页——业余无线电知识库
 description: 
 published: true
-date: 2025-12-07T05:39:45.184Z
+date: 2025-12-07T05:45:54.941Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T16:37:41.028Z
@@ -27,7 +27,7 @@ dateCreated: 2025-11-27T16:37:41.028Z
 | 分类                       | 内容概览                      |
 | ------------------------ | ------------------------- |
 |[入门指南](/ham-quickstart/get-license)     | 什么是业余无线电 / 如何开始 / 取得操作资格  |
-|[矢量网络分析仪(VNA)的操作](/ham-quickstart/vna)     | 驻波比 / 史密斯圆 / 线缆损耗        |
+|[矢量网络分析仪(VNA)的操作](/ham-tech/vna)     | 驻波比 / 史密斯圆 / 线缆损耗        |
 |[Analog智库(ADI智库)](https://www.analog.com/media/cn/technical-documentation/intelligence/key-points-of-passive-components.pdf)| 模拟电子电路 / 无源器件使用要点|
 |GNU Radio 软件定义无线电开发平台| 软件定义无线电 / SDR / 信号处理 |
 |业余无线电通联日志系统的使用 | LOTW / QRZ.COM |
