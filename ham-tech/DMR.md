@@ -2,7 +2,7 @@
 title: DMR数字通信入门
 description: 
 published: true
-date: 2025-12-20T15:40:12.808Z
+date: 2025-12-20T15:52:34.532Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:20:49.608Z
@@ -95,8 +95,10 @@ BrandMeister允许您连接到MOTOROLA DMR-MARC和Hytera DMRplus网络，这意�
 # 开始
 在使用DMR设备进行通联之前，需要先注册RadioID和Brandmeister账户，将呼号和ID数据录入服务器
 ## Radioid注册
+> 关于DMR ID目前较为著名的两个系统分别是美国的DMR MARC和欧洲的Brandmeister，这两个系统共享了一套RadioID数据库，也是全球性唯一的HAM分配DMR ID的系统
+
 ![](https://radioid.net/static/images/radioid_logo.png)
-首先要进入DMR的世界，我们需要准备好操作证和电台执照的照片
+首先要进入DMR的世界，我们需要准备好**操作证和电台执照的照片**
 业余无线电中的DMR ID 由 **RADIO ID.Inc**发放
 首先进入Radioid网站 **https://radioid.net/** 注册DMR ID
 右上角**Register**注册
@@ -106,6 +108,7 @@ BrandMeister允许您连接到MOTOROLA DMR-MARC和Hytera DMRplus网络，这意�
 执照图片要求（新执照同理）
 ![require.png](/dmr-digi/require.png){.align-center}
 RadioID lnc需要24-48小时人工审核，审核通过会在Radioid Dashboard和发送的邮件中
+这边仅做粗略的流程，有一定英语能力的可以直接完成，若还有疑惑详细参考文档：[知乎-MMDVM国际DMR ID注册详细教程](https://zhuanlan.zhihu.com/p/666427200)
 ## Brandmeister注册
 在**RadioID**完成注册流程并获取DMR ID之后，接下来需要注册**Brandmeister**
 Dashboard | Brandmeister ：**https://brandmeister.network/**
