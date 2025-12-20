@@ -2,7 +2,7 @@
 title: DMR数字通信入门
 description: 
 published: true
-date: 2025-12-20T15:55:25.105Z
+date: 2025-12-20T16:56:51.343Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:20:49.608Z
@@ -111,6 +111,7 @@ BrandMeister允许您连接到MOTOROLA DMR-MARC和Hytera DMRplus网络，这意�
 执照图片要求（新执照同理）
 ![require.png](/dmr-digi/require.png){.align-center}
 RadioID lnc需要24-48小时人工审核，审核通过会在Radioid Dashboard和发送的邮件中
+![radioida.png](/dmr-digi/radioida.png)
 这边仅做粗略的流程，有一定英语能力的可以直接完成，若还有疑惑详细参考文档：[知乎-MMDVM国际DMR ID注册详细教程](https://zhuanlan.zhihu.com/p/666427200)
 ## Brandmeister注册
 在**RadioID**完成注册流程并获取DMR ID之后，接下来需要注册**Brandmeister**
