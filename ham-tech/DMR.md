@@ -2,7 +2,7 @@
 title: DMR数字通信入门
 description: 
 published: true
-date: 2025-12-20T16:56:51.343Z
+date: 2025-12-20T16:57:45.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:20:49.608Z
@@ -119,6 +119,9 @@ Dashboard | Brandmeister ：**https://brandmeister.network/**
 ![bm.png](/dmr-digi/bm.png)
 右上角**Register注册**
 ![brandmeister.png](/dmr-digi/brandmeister.png)
+> AntiSpam问题：What is the wavelength of the UHF band in centimeters?
+答案：70
+
 正常走完注册流程后就进入DashBoard进行网关配置
 但是个人的MMDVM盒子连接服务器之前我们先需要进入SelfCare设置网关密码
 ![selfcare.png](/dmr-digi/selfcare.png)
