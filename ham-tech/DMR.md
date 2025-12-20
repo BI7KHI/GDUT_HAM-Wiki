@@ -2,7 +2,7 @@
 title: DMR数字通信入门
 description: 
 published: true
-date: 2025-12-20T11:58:51.949Z
+date: 2025-12-20T12:39:58.608Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:20:49.608Z
@@ -59,6 +59,7 @@ struct cach_header {
 **色码（Color Code）**
 * 4比特（0-15），类似模拟CTCSS（模拟对讲机中广泛使用的亚音技术标准），区分同频相邻系统。
 
+# 概述——业余无线电
 # 开始
 首先要进入DMR的世界，我们需要准备好操作证和电台执照的照片
 业余无线电中的DMR ID 由 **RADIO ID.Inc**发放
