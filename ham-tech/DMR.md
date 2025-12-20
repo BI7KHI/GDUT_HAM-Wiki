@@ -2,7 +2,7 @@
 title: DMR数字通信入门
 description: 
 published: true
-date: 2025-12-20T15:52:34.532Z
+date: 2025-12-20T15:55:25.105Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:20:49.608Z
@@ -94,6 +94,9 @@ BrandMeister允许您连接到MOTOROLA DMR-MARC和Hytera DMRplus网络，这意�
 
 # 开始
 在使用DMR设备进行通联之前，需要先注册RadioID和Brandmeister账户，将呼号和ID数据录入服务器
+> 对了，这里是一些提示：
+> * 提问前请看[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+> * 注册网站全英文，使用此文档需要有一定的英语能力
 ## Radioid注册
 > 关于DMR ID目前较为著名的两个系统分别是美国的DMR MARC和欧洲的Brandmeister，这两个系统共享了一套RadioID数据库，也是全球性唯一的HAM分配DMR ID的系统
 
