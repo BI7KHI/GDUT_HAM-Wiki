@@ -2,7 +2,7 @@
 title: 主页——业余无线电知识库
 description: 
 published: true
-date: 2025-12-20T11:07:52.656Z
+date: 2025-12-20T11:28:46.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T16:37:41.028Z
@@ -32,7 +32,7 @@ dateCreated: 2025-11-27T16:37:41.028Z
 |GNU Radio 软件定义无线电开发平台| 软件定义无线电 / SDR / 信号处理 |
 |业余无线电通联日志系统的使用 | LOTW / QRZ.COM |
 |[电台维修指南](/ham-tech/radiorepair)|技术手册 / 写频软件|
-|DMR数字通信|DMR ID注册流程 / Brandmeister配置 / DMR设备配置|
+|[DMR数字通信](/ham-tech/DMR)|DMR ID注册流程 / Brandmeister配置 / DMR设备配置|
 
 
 ---
