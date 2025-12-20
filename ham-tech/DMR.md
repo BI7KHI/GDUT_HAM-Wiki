@@ -2,7 +2,7 @@
 title: DMR数字通信入门
 description: 
 published: true
-date: 2025-12-20T12:57:06.626Z
+date: 2025-12-20T15:40:12.808Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:20:49.608Z
@@ -93,10 +93,34 @@ BrandMeister允许您连接到MOTOROLA DMR-MARC和Hytera DMRplus网络，这意�
 > **通话组**表示各地区的通话组，例如TG46001（全国多模式）、TG91（全球组）、TG46020（广州组）
 
 # 开始
+在使用DMR设备进行通联之前，需要先注册RadioID和Brandmeister账户，将呼号和ID数据录入服务器
+## Radioid注册
+![](https://radioid.net/static/images/radioid_logo.png)
 首先要进入DMR的世界，我们需要准备好操作证和电台执照的照片
 业余无线电中的DMR ID 由 **RADIO ID.Inc**发放
-首先进入Radioid网站 https://radioid.net/ 注册DMR ID
+首先进入Radioid网站 **https://radioid.net/** 注册DMR ID
 右上角**Register**注册
+![radioid.png](/dmr-digi/radioid.png)
+按照流程填写注册邮箱和账户信息后，进入信息完善页，然后进行执照审核
+![radioid1.png](/dmr-digi/radioid1.png){.align-center}
+执照图片要求（新执照同理）
+![require.png](/dmr-digi/require.png){.align-center}
+RadioID lnc需要24-48小时人工审核，审核通过会在Radioid Dashboard和发送的邮件中
+## Brandmeister注册
+在**RadioID**完成注册流程并获取DMR ID之后，接下来需要注册**Brandmeister**
+Dashboard | Brandmeister ：**https://brandmeister.network/**
+![bm.png](/dmr-digi/bm.png)
+右上角**Register注册**
+![brandmeister.png](/dmr-digi/brandmeister.png)
+正常走完注册流程后就进入DashBoard进行网关配置
+但是个人的MMDVM盒子连接服务器之前我们先需要进入SelfCare设置网关密码
+![selfcare.png](/dmr-digi/selfcare.png)
+然后总的注册流程就到这里
+
+# 设置流程
+## BrandMeister中的网关设置
+### 静态组Static和动态组Dynamic
+## MMDVM连接设置
 
 
 
