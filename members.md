@@ -2,7 +2,7 @@
 title: 社团成员
 description: 
 published: true
-date: 2025-12-07T05:52:22.834Z
+date: 2026-01-08T04:11:05.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-10T02:19:08.419Z
@@ -33,7 +33,7 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |<img src="/avatars/5b9decfd9208004ad69cca1168b66c4f.jpg" width="50" height="50" align="center" />|Clay Lee|BA7KSG|http://uzcc.cc|龙洞 |法学院|
 | | |BA7NLP| | 大学城|生态环境与资源学院|
 | | |BD7PRF| |大学城 |群内唯一土木佬|
-|<img src="/avatars/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5 | | |大学城|材料与能源学院
+|<img src="/avatars/01609ec1169be6afdd7e7151fbb0a64b.png" width="50" height="50" align="center" />| 7732-18-5|BG7JRH| |大学城|材料与能源学院
 | | |BD7PPI| |大学城|自动化学院|
 |<img src="https://avatars.githubusercontent.com/u/203394164?v=4" width="50" height="50" align="center" />| |BG7KMU| |大学城|自动化学院|
 |<img src="https://avatars.githubusercontent.com/u/109465882?v=4" width="50" height="50" align="center" />| |BG7KOD| |大学城|生态环境与资源学院|
@@ -46,7 +46,6 @@ dateCreated: 2025-11-10T02:19:08.419Z
 | | |BG7OES| |大学城| |
 | | |BG7MCC | | | |
 
-校团委社团成员限制为仅本科生，研究生无法通过校团委审核
 
 # 社团群聊结构
 
