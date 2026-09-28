@@ -2,10 +2,10 @@
 title: 主页——业余无线电知识库
 description: 
 published: true
-date: 2026-01-09T12:07:21.270Z
+date: 2026-09-09T14:55:17.026Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-27T16:37:41.028Z
+dateCreated: 2026-07-18T11:19:48.519Z
 ---
 
 下面是一个适合作为**业余无线电知识库 Wiki 主页**的 Markdown 模版，包含简介、快速导航以及常见知识主题分类。你可以直接用于 GitHub Wiki、Docs 或其他知识库系统。
@@ -32,6 +32,7 @@ dateCreated: 2025-11-27T16:37:41.028Z
 |[ROHDE & SCHWARZ 射频技术基础知识)](https://www.rohde-schwarz.com.cn/knowledge-center/technology-fundamentals/technology-fundamentals_255554.html)| 无线电接收技术 / 测向和定位技术 /信号分析方法|
 |GNU Radio 软件定义无线电开发平台| 软件定义无线电 / SDR / 信号处理 |
 |业余无线电通联日志系统的使用 | LOTW / QRZ.COM |
+|[QRZ.COM的注册和页面美化修改](/ham-tools/qrz-tutorial.md) | QRZ.COM |
 |[电台维修指南](/ham-tech/radiorepair)|技术手册 / 写频软件|
 |[DMR数字通信](/ham-tech/DMR)|DMR ID注册流程 / Brandmeister配置 / DMR设备配置|
 

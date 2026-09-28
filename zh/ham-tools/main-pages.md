@@ -21,6 +21,7 @@ dateCreated: 2025-11-13T08:23:41.202Z
 |------|-------|
 |CW在线学习网站LCWO|https://lcwo.net/courselesson|
 |全球呼号数据库QRZ|https://qrz.com/|
+|QRZ注册与Page编辑美化教程|[QRZ教程](/ham-tools/qrz-tutorial.md)|
 |DMRID\NXDN注册网站|https://qrz.com/|
 |BrandMeister网络管理|https://brandmeister.network/|
 |ASRTU-1卫星快速导航|https://asrtu.mqsi.xyz/|

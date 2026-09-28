@@ -2,10 +2,10 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2025-12-03T14:21:15.188Z
+date: 2026-09-23T16:39:26.377Z
 tags: 生活指南
 editor: markdown
-dateCreated: 2025-11-11T15:04:56.764Z
+dateCreated: 2026-07-18T11:19:29.791Z
 ---
 
 # 厂工生存指北（大学城）
@@ -96,7 +96,7 @@ KFC、茶百道等同理
 
 ### 西区丰巢/快宝点
 ![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3886,23.0428&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3886,23.0428&key=fd662ff89d9de222c22af0fc2a8922fb)
-## 宿舍好物
+## [宿舍好物](/zh/Knowledge_living-in-GDUT/宿舍好物)
 窗帘是必备的，广东夏天的蚊子有你好受的，但是注意透气和通风，不然很闷
 床下帘也可以安装，如果你是i人或者注重隐私的话
 ## 就医指南
@@ -138,4 +138,4 @@ Outlook插件 https://github.com/BI7KHI/GDUT_Schedule_Management_Plug-in_Outlook
 Q：被困在实验楼了/不知道实验楼的入口在哪
 A：实验楼需要从二楼进出，一楼的门需要门禁，在里面可以按门右手侧的按钮出去
 
-Q：
+Q：北朝了怎么办
