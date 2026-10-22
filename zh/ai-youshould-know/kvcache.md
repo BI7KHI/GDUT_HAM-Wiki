@@ -2,8 +2,8 @@
 title: KVCache：键值缓存
 description: LLM 推理加速的核心：KVCache 原理、内存成本与优化方向
 published: true
-date: 2026-09-23T16:39:30.447Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: KVCache, LLM推理, 显存优化
 editor: markdown
 dateCreated: 2026-09-23T16:10:58.911Z
 ---

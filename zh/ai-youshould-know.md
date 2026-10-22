@@ -2,8 +2,8 @@
 title: AI时代你应该知道的-首页
 description: AI 名词速查与入门索引：KVCache、LLM 推理、MCP、Skill、Tool Call 等
 published: true
-date: 2026-09-23T16:39:28.341Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: AI, 大模型, 名词解释, 索引
 editor: markdown
 dateCreated: 2026-09-23T15:51:58.268Z
 ---

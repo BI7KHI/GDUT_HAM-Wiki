@@ -1,18 +1,54 @@
 ---
-title: 导航——电台维修指南
-description: 
+title: 电台维修指南——资料导航
+description: 收音机、对讲机与测试仪器的说明书、写频软件和维护资料入口
 published: true
-date: 2026-01-09T12:09:24.999Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: 维修, 说明书, 写频软件, 电台
 editor: markdown
 dateCreated: 2025-12-07T07:39:41.075Z
 ---
 
-# 技术手册
-## 收音机
-[德生PL368使用说明书(20210712)](https://23589844.s21v.faimallusr.com/61/ABUIABA9GAAg7ffqnAYoyJWgiwQ.pdf)
-## 对讲机 / 手持电台
-[Baofeng宝峰UV3R](https://baofengtech.com/wp-content/uploads/2020/09/UV3R_Manual.pdf)
-## 专业仪器
-[罗德与施瓦茨 R&S CMU200无线电综合测试仪]()
-# 写频软件
+# 电台维修指南
+
+维修发射设备前请先确认：**设备已断电、无射频功率输出，并在具备相应知识和工具的前提下操作**。发射类设备涉及型号核准与频率合规，改装后仍需满足当地无线电管理规定。
+
+本页收集常用设备的说明书、写频软件和测试仪器资料，作为维修与设备配置的入口。
+
+## 技术手册
+
+### 收音机
+
+- [德生 PL368 使用说明书（2021-07-12）](https://23589844.s21v.faimallusr.com/61/ABUIABA9GAAg7ffqnAYoyJWgiwQ.pdf)
+
+### 对讲机 / 手持电台
+
+- [宝峰 UV-3R 使用说明书（英文）](https://baofengtech.com/wp-content/uploads/2020/09/UV3R_Manual.pdf)
+- 宝峰、泉盛等品牌的中文说明书通常可在品牌官网或包装内附带的下载卡中找到；购买二手设备时建议向卖家索要原说明书。
+
+### 专业测试仪器
+
+- [Rohde & Schwarz CMU200 综合测试仪（官网检索）](https://www.rohde-schwarz.com/search/?term=CMU200)：可用于发射功率、频率误差、调制质量等指标测试。
+
+## 写频软件
+
+| 软件 | 适用设备 | 链接 |
+|------|----------|------|
+| CHIRP | 宝峰、UV-5R、部分 Kenwood/Yaesu 手持台 | <https://chirp.danplanet.com/projects/chirp/wiki/Home> |
+| 厂商专用写频软件 | 各品牌车载台/中继台 | 请以设备品牌官网下载页为准 |
+
+> 💡 写频前先**备份原始频率配置**，并确认设备型号、版本与软件版本匹配。不同批次的同型号设备可能使用不同的写频协议。
+
+## 维修记录与资料征集
+
+欢迎社团成员补充：
+
+- 设备型号与对应说明书/维修手册；
+- 常见故障现象与排查过程；
+- 写频软件版本与兼容性说明。
+
+资料可直接通过 GitHub PR 提交，或在贡献群中联系管理员。
+
+## 相关页面
+
+- [业余无线电知识库索引](/zh/ham-tech/index)
+- [矢量网络分析仪 VNA 的操作](/zh/ham-tech/vna)

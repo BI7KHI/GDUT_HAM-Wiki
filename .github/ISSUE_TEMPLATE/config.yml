@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Wiki 贡献指南
+    url: https://argdut.bi7khi.xyz/zh/wikicontribution/wiki%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97
+    about: 编辑方式、内容规范与图片存放约定
+  - name: 项目结构规范
+    url: https://github.com/BI7KHI/GDUT_HAM-Wiki/blob/main/docs/STRUCTURE.md
+    about: 目录职责、页面与资源路径约定

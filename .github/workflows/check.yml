@@ -1,0 +1,41 @@
+name: Wiki checks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "zh/**"
+      - "assets/**"
+      - "scripts/**"
+      - "docs/**"
+      - ".github/**"
+      - "README.md"
+      - "CONTRIBUTING.md"
+  pull_request:
+    paths:
+      - "zh/**"
+      - "assets/**"
+      - "scripts/**"
+      - "docs/**"
+      - ".github/**"
+      - "README.md"
+      - "CONTRIBUTING.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate wiki structure and links
+        run: python scripts/check_wiki.py

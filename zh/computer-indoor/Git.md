@@ -1,74 +1,145 @@
 ---
-title: Git与Github的操作教程
-description: 千里之行，始于足下
+title: Git 与 GitHub 操作教程
+description: 从安装、首次配置到提交、分支与 Pull Request 的 Git 入门教程
 published: true
-date: 2025-11-25T03:28:08.191Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: Git, GitHub, 版本控制, 教程
 editor: markdown
 dateCreated: 2025-11-10T01:57:24.774Z
 ---
 
-# Git 分布式版本控制系统
-Git 是一种分布式版本控制系统，由 Linus Torvalds 于 2005 年创建，旨在高效管理代码版本。它以其高性能、灵活性和数据完整性而闻名，广泛应用于个人项目、企业开发和开源社区。
->线上团队协作，例如数学建模等信息类竞赛Git是必须掌握的，日常开发中同时也扮演着非常重要的作用
+# Git 与 GitHub 操作教程
 
-Git 是现代软件开发中不可或缺的工具，其分布式架构、高效性能和灵活工作流使其成为版本控制的首选。通过掌握 Git 的基本操作和高级功能，开发者可以显著提高工作效率，确保代码质量和项目稳定性。
-## 核心特性
-1. **分布式架构** 每个开发者都拥有完整的代码库副本，包括所有历史记录。这种设计允许开发者在本地完成提交、分支和合并等操作，即使离线也能正常工作。
-2. **高效的数据处理** Git 使用快照机制，将每次提交视为整个项目的快照，而非仅记录文件差异。通过增量存储技术，Git 能有效节省存储空间并快速恢复历史版本。
-3. **数据完整性** 每次提交都会生成唯一的 SHA-1 哈希值，确保数据的完整性和一致性。Git 还通过校验和机制防止数据在传输过程中被篡改。
-4. **灵活的分支管理** Git 支持快速创建和切换分支，开发者可以在独立分支上开发新功能或修复 Bug，随后将其合并到主分支。这种机制极大提高了团队协作效率。
-5. **暂存区** 提供了一个暂存区（staging area），允许开发者选择性地提交部分更改，而无需一次性提交所有修改。
-6. 开源与社区支持 Git 是开源项目，拥有庞大的开发者社区，提供丰富的文档和工具支持，帮助用户更好地管理代码。
-## 实际应用场景
-1. **版本管理**
-Git 能记录每次代码修改，支持回滚到任意历史版本，确保项目的稳定性。
+Git 是由 Linus Torvalds 于 2005 年创建的分布式版本控制系统，用于记录文件的修改历史、支持多人协作和版本回退。GitHub 则是基于 Git 的代码托管平台。
 
-2. **多人协作**
-支持多个开发者同时在不同分支上工作，合并时自动检测冲突并提供解决工具。
+本教程面向第一次接触 Git 的同学，覆盖安装、配置、日常命令和参与本 Wiki 的完整流程。
 
-3. **代码审查**
-通过 Pull Request 功能，开发者可以在合并代码前进行审查，确保代码质量。
+## Git 能解决什么问题
 
-4. **备份与恢复**
-由于分布式架构，每个开发者的本地仓库都是完整备份，即使中央仓库损坏，也能从其他副本恢复。
+- **版本管理**：记录每一次修改，随时回滚到任意历史版本。
+- **多人协作**：不同成员在各自分支上工作，通过合并整合修改。
+- **代码审查**：通过 Pull Request 在合并前讨论和检查改动。
+- **备份与恢复**：每个开发者本地都有完整仓库副本。
+- **自动化集成**：配合 CI/CD 工具完成构建、测试和部署。
 
-5. **自动化集成**
-Git 可与 CI/CD 工具（如 Jenkins、Travis CI）结合，实现自动化构建、测试和部署。(本Wiki站部署应用)
-# 开始
-接下来，此教程将帮助你从Git小白走向版本控制大蛇
-Git官方中文文档:https://git-scm.com/book/zh/v2
-## 在之前你需要了解的
-### Git的三种状态
-现在请注意，如果你希望后面的学习更顺利，请记住下面这些关于 Git 的概念。 Git 有三种状态，你的文件可能处于其中之一： **已提交（committed）、已修改（modified） 和 已暂存（staged）**。
+## 安装 Git
 
-* 已修改表示修改了文件，但还没保存到数据库中。
+- **Windows**：从 <https://git-scm.com/download/win> 下载安装包，安装时保持默认选项即可；也可以使用 `winget install Git.Git`。
+- **macOS**：运行 `xcode-select --install`，或使用 Homebrew：`brew install git`。
+- **Linux（Debian/Ubuntu）**：`sudo apt install git`。
 
-* 已暂存表示对一个已修改文件的当前版本做了标记，使之包含在下次提交的快照中。
+安装完成后打开终端，确认版本：
 
-* 已提交表示数据已经安全地保存在本地数据库中。
+```bash
+git --version
+```
 
-这会让我们的 Git 项目拥有三个阶段：工作区、暂存区以及 Git 目录。
-### Git的工作流程
-基本的 Git 工作流程如下：
-1. 在工作区中修改文件。
-2. 将你想要下次提交的更改选择性地暂存，这样只会将更改的部分添加到暂存区。
-3. 提交更新，找到暂存区的文件，将快照永久性存储到 Git 目录。
-### 命令行
-Git 有多种使用方式。 你可以使用原生的命令行模式，也可以使用 GUI 模式，这些 GUI 软件也能提供多种功能。 在本阶段教程中，我们将使用命令行模式。 这是因为首先，只有在命令行模式下你才能执行 Git 的 所有 命令，而大多数的 GUI 软件只实现了 Git 所有功能的一个子集以降低操作难度。 如果你学会了在命令行下如何操作，那么你在操作 GUI 软件时应该也不会遇到什么困难，但是，反之则不成立。 此外，由于每个人的想法与侧重点不同，不同的人常常会安装不同的 GUI 软件，但**所有人一定会有命令行工具**。
+## 首次配置
 
-假如你是 macOS 用户，我们希望你懂得如何使用终端（Terminal）；假如你是 Windows 用户，我们希望你懂得如何使用命令窗口（Command Prompt）或 PowerShell。 **如果你尚未掌握以上技能，我们建议你先停下来快速学习一下。**
-## 下载与安装
-Git官方网站:https://git-scm.com/
-Git 目前对一下主流系统支持版本。分别为:
-1. Windows GUI
-2. Linux及其发行版
-3. Mac Build
-4. 源码安装
+设置提交时显示的用户名和邮箱（建议与 GitHub 账号一致）：
 
+```bash
+git config --global user.name "你的名字"
+git config --global user.email "you@example.com"
+```
 
+查看当前配置：
 
+```bash
+git config --global --list
+```
 
+## 三种状态与基本工作流
 
+Git 中的文件通常处于三种状态：
 
+| 状态 | 含义 |
+|------|------|
+| 已修改（modified） | 工作区文件有改动，尚未加入暂存区 |
+| 已暂存（staged） | 改动已标记，会进入下一次提交 |
+| 已提交（committed） | 快照已安全保存到本地仓库 |
 
+一次完整的提交流程：
+
+```bash
+git status              # 查看当前改动
+git add <文件或目录>     # 将改动加入暂存区；git add . 表示全部
+git commit -m "说明"    # 提交到本地仓库
+```
+
+## 常用命令
+
+| 命令 | 作用 |
+|------|------|
+| `git init` | 在当前目录初始化新仓库 |
+| `git clone <url>` | 克隆远程仓库到本地 |
+| `git status` | 查看工作区和暂存区状态 |
+| `git diff` | 查看未暂存的改动 |
+| `git log --oneline` | 查看提交历史 |
+| `git add <file>` | 暂存指定文件 |
+| `git commit -m "msg"` | 提交暂存内容 |
+| `git pull` | 拉取并合并远程更新 |
+| `git push` | 推送本地提交到远程 |
+| `git switch -c <branch>` | 新建并切换到分支 |
+| `git switch <branch>` | 切换分支 |
+| `git merge <branch>` | 将指定分支合并到当前分支 |
+
+## 参与本 Wiki 的 Git 流程
+
+1. 在 GitHub 上 Fork [GDUT_HAM-Wiki](https://github.com/BI7KHI/GDUT_HAM-Wiki)。
+2. 克隆自己的 Fork：
+
+   ```bash
+   git clone https://github.com/<你的用户名>/GDUT_HAM-Wiki.git
+   cd GDUT_HAM-Wiki
+   ```
+
+3. 新建分支并修改内容：
+
+   ```bash
+   git switch -c docs/fix-links
+   # 使用编辑器修改 zh/ 下的 Markdown 文件
+   git status
+   git diff
+   ```
+
+4. 提交并推送：
+
+   ```bash
+   git add .
+   git commit -m "docs: 修复工具页链接"
+   git push -u origin docs/fix-links
+   ```
+
+5. 在 GitHub 页面点击 **Compare & pull request**，填写改动说明，等待审核。
+
+更详细的内容规范见 [Wiki 贡献指南](/zh/wikicontribution/wiki贡献指南)。
+
+## 分支与冲突
+
+- **分支**用于隔离不同任务：一个分支只做一件事，合并后删除。
+- 合并时若两个分支修改了同一文件的同一位置，Git 会标记为**冲突**：
+
+  ```text
+  <<<<<<< HEAD
+  当前分支的内容
+  =======
+  另一分支的内容
+  >>>>>>> docs/fix-links
+  ```
+
+  手动保留需要的内容，删除冲突标记后重新 `git add` 并 `git commit`。
+
+- 推送被拒绝时，通常需要先 `git pull` 合并远程更新，再重新推送。
+
+## 学习资源
+
+- [Pro Git 中文版（官方书籍）](https://git-scm.com/book/zh/v2)
+- [GitHub 官方文档](https://docs.github.com/zh)
+- [Learn Git Branching（交互式练习）](https://learngitbranching.js.org/?locale=zh_CN)
+
+## 相关页面
+
+- [Wiki 贡献指南](/zh/wikicontribution/wiki贡献指南)
+- [你缺失的那门计算机课](/zh/computer-indoor/你缺失的那门计算机课——主页)
+- [返回 Wiki 首页](/zh/home)

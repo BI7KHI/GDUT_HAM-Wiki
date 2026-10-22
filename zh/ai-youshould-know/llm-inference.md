@@ -2,8 +2,8 @@
 title: LLM 推理：从输入到输出
 description: Prefill、Decode、采样策略与推理优化
 published: true
-date: 2026-09-23T16:39:32.742Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: LLM, 推理, 采样, 性能优化
 editor: markdown
 dateCreated: 2026-09-23T16:11:24.346Z
 ---

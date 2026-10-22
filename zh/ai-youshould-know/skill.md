@@ -2,8 +2,8 @@
 title: Skill：AI 技能
 description: 把提示词、工具调用与领域知识封装成可复用的 AI 能力
 published: true
-date: 2026-09-23T16:39:36.691Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: Skill, AI技能, 提示词
 editor: markdown
 dateCreated: 2026-09-23T16:11:42.293Z
 ---

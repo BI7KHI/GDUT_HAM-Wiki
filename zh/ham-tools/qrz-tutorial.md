@@ -2,7 +2,7 @@
 title: QRZ 呼号数据库使用与 Page 编辑美化教程
 description: 总结 QRZ.com 注册、登录、呼号 Page（Biography）HTML/CSS 编辑流程及 BI7KHI 美化示例
 published: true
-date: 2026-09-09T14:50:00.000Z
+date: 2026-10-22T00:00:00.000Z
 tags: QRZ, 业余无线电, 教程, 呼号数据库, BI7KHI
 editor: markdown
 dateCreated: 2026-09-09T14:50:00.000Z
@@ -37,13 +37,13 @@ dateCreated: 2026-09-09T14:50:00.000Z
    - 其他个人信息（姓名、地址、网格等）；
 4. 完成邮箱/人工验证后即可开始使用。
 
-![QRZ 首页](/ham-tools/qrz/qrz-home.png)
+![QRZ 首页](/assets/images/ham-tools/qrz/qrz-home.webp)
 
 ### 2.2 登录
 
 1. 点击 `login`，进入登录页：
 
-![QRZ 登录页](/ham-tools/qrz/qrz-login.png)
+![QRZ 登录页](/assets/images/ham-tools/qrz/qrz-login.webp)
 
 2. 输入 **用户名 / 呼号** 和 **密码**，如开启两步验证则填写 2FA 验证码；
 3. 登录成功后，页面右上角会显示当前呼号，并出现 `Edit <呼号>` 与 `Account` 等管理入口。
@@ -71,18 +71,18 @@ dateCreated: 2026-09-09T14:50:00.000Z
 - Add a special callsign...（加后缀呼号）
 - Help / FAQ / Done
 
-![Callsign Update Manager](/ham-tools/qrz/qrz-bi7khi-edit.png)
+![Callsign Update Manager](/assets/images/ham-tools/qrz/qrz-bi7khi-edit.webp)
 
 ### 3.2 编辑 Biography（HTML Page）
 
 1. 点击 `Add or edit your biography text, fonts, etc.`；
 2. 进入 **Edit Bio** 页面，默认是所见即所得（WYSIWYG）的 CKEditor：
 
-![Bio 编辑器](/ham-tools/qrz/qrz-bi7khi-bio-edit.png)
+![Bio 编辑器](/assets/images/ham-tools/qrz/qrz-bi7khi-bio-edit.webp)
 
 3. **点击工具栏上的 `Source` 按钮**，切换到 HTML 源码编辑模式：
 
-![HTML Source 模式](/ham-tools/qrz/qrz-bi7khi-bio-source.png)
+![HTML Source 模式](/assets/images/ham-tools/qrz/qrz-bi7khi-bio-source.webp)
 
 4. 在源码区域粘贴或编辑自己的 HTML（支持 `<div>`、`<span>`、`<a>`、`<img>`、`<strong>` 等常用标签，以及 `style="..."` 内联样式）；
 5. 编辑完成后**再点一次 `Source`** 返回预览；
@@ -98,7 +98,7 @@ dateCreated: 2026-09-09T14:50:00.000Z
 2. 在 `Custom CSS styles for the BI7KHI callsign page` 文本框中编写 CSS；
 3. 点击 `Save`。
 
-![Expert CSS 编辑器](/ham-tools/qrz/qrz-bi7khi-css-edit.png)
+![Expert CSS 编辑器](/assets/images/ham-tools/qrz/qrz-bi7khi-css-edit.webp)
 
 示例 CSS：
 
@@ -160,11 +160,11 @@ dateCreated: 2026-09-09T14:50:00.000Z
 
 原页面已经有比较清晰的内容，但排版以普通段落 + 简单色块为主：
 
-![BI7KHI 原 Page](/ham-tools/qrz/qrz-bi7khi-db.png)
+![BI7KHI 原 Page](/assets/images/ham-tools/qrz/qrz-bi7khi-db.webp)
 
 ### 5.2 新版改进点
 
-改进后的 HTML 参考文件：`ham-tools/qrz/bi7khi-page-new.html`（可复制到编辑器复用）。
+改进后的 HTML 参考文件：`assets/examples/qrz/bi7khi-page-new.html`（可复制到编辑器复用）。
 
 主要改动：
 
@@ -181,7 +181,7 @@ dateCreated: 2026-09-09T14:50:00.000Z
 
 保存后公开页显示效果：
 
-![BI7KHI 美化后 Page](/ham-tools/qrz/qrz-bi7khi-db-final.png)
+![BI7KHI 美化后 Page](/assets/images/ham-tools/qrz/qrz-bi7khi-db-final.webp)
 
 ---
 

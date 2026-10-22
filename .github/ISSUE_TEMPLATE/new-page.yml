@@ -1,0 +1,44 @@
+name: 新页面建议
+description: 提议新增一个页面或栏目
+title: "[新页面] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 建议的页面标题
+      placeholder: 例如：天线与馈线基础
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: 所属栏目
+      options:
+        - 新手入门 (ham-quickstart)
+        - 技术知识库 (ham-tech)
+        - 工具与软件 (ham-tools)
+        - 校园生活 (Knowledge_living-in-GDUT)
+        - 学习笔记 (study-notes)
+        - 计算机与 AI (computer-indoor / ai-youshould-know)
+        - 社团事务
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: outline
+    attributes:
+      label: 内容提纲
+      description: 列出计划覆盖的知识点和目标读者
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: 参考资料
+      description: 可选，列出可引用的书籍、标准、网站或设备手册
+    validations:
+      required: false

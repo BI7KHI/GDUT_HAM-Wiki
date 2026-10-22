@@ -2,8 +2,8 @@
 title: Tool Call：工具调用
 description: 模型如何通过结构化请求调用外部函数、API 与业务系统
 published: true
-date: 2026-09-23T16:39:38.851Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: Tool Call, 函数调用, Agent
 editor: markdown
 dateCreated: 2026-09-23T16:11:56.743Z
 ---

@@ -2,8 +2,8 @@
 title: RAG：检索增强生成
 description: 先检索、再生成：企业知识库问答的核心模式
 published: true
-date: 2026-09-23T16:39:40.773Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: RAG, 检索增强, 知识库
 editor: markdown
 dateCreated: 2026-09-23T16:12:05.692Z
 ---

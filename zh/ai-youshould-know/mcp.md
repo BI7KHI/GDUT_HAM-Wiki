@@ -2,8 +2,8 @@
 title: MCP：模型上下文协议
 description: 用统一协议连接模型、Agent 与外部工具和数据源
 published: true
-date: 2026-09-23T16:39:34.737Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: MCP, 协议, 工具调用
 editor: markdown
 dateCreated: 2026-09-23T16:11:33.334Z
 ---

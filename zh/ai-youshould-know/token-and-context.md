@@ -2,8 +2,8 @@
 title: Token 与上下文窗口
 description: 模型处理文本的最小单位与上下文长度限制
 published: true
-date: 2026-09-23T16:39:45.139Z
-tags: 
+date: 2026-10-22T00:00:00.000Z
+tags: Token, 上下文窗口, 大模型
 editor: markdown
 dateCreated: 2026-09-23T16:12:23.660Z
 ---

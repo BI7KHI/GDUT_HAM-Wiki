@@ -1,0 +1,42 @@
+name: 内容纠错
+description: 报告页面中的错误、过时信息、断链或排版问题
+title: "[内容] "
+labels: ["content"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 页面地址或路径
+      description: 填写站点 URL，或仓库中的页面路径
+      placeholder: https://argdut.bi7khi.xyz/zh/ham-tech/vna
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 事实错误 / 过时信息
+        - 错别字 / 病句
+        - 断链 / 图片缺失
+        - 排版 / 格式问题
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: 问题描述
+      description: 说明问题出现在哪里，以及你期望的正确内容
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: 参考来源
+      description: 如果涉及事实修正，请提供可验证的来源链接或资料
+    validations:
+      required: false
